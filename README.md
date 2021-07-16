@@ -1,0 +1,1 @@
+# README Detalhado após finalização do projeto
