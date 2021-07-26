@@ -24,8 +24,8 @@
 </h2>
 <h2 align="center">
   <img alt="Beautysalon." src="./assets/readme/mockup.png" align="center"/></h2>
-  <h3 align="center"><a href="https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six/duplicate">Link no Figma</a><br>
-  <a href="https://igorvini25.github.io/Beautysalon-NLW6">Site do Projeto</a></h3><hr>
+  <h3 align="center"><a href="https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six/duplicate" target="_blank">Link no Figma</a><br>
+  <a href="https://igorvini25.github.io/Beautysalon-NLW6" target="_blank">Site do Projeto</a></h3><hr>
   <h2 align="center">A Paleta de cores</h2>
   <h3 align="">A Paleta de cores do projeto foi feita de uma forma que fique fácil de trocar as cores.</h3><br>
   <h3 align="center">Indo na linha <b>26/27</b> no arquivo style.css você encontrará isso:</h3>
@@ -43,7 +43,7 @@
 $ git clone https://github.com/IgorVini25/Beautysalon-NLW6.git
 ```
 
-Ou baixe o arquivo .zip clicando [AQUI](https://github.com/IgorVini25/Beautysalon-NLW6/archive/refs/heads/main.zip)
+Ou baixe o arquivo .zip clicando <a href="https://github.com/IgorVini25/Beautysalon-NLW6/archive/refs/heads/main.zip" target="_blank">AQUI</a>
 
 <hr>
 
@@ -57,8 +57,8 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 As Seguintes API's foram utilizados no projeto:
 
-- [ScrollReveal](https://scrollrevealjs.org/)
-- [Swiper](https://swiperjs.com/)
+- <a href="https://scrollrevealjs.org/" target="_blank">ScrollReveal</a>
+- <a href="https://swiperjs.com/" target="_blank">Swiper</a>
 
 ---
 
@@ -71,10 +71,10 @@ As Seguintes API's foram utilizados no projeto:
 
 <h2 align="center" id="creator"> Criador </h2>
 <h3 align="center">
-<a href="https://github.com/maykbrito">
+<a href="https://github.com/maykbrito" target="_blank">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/6643122?v=4" width="150px;" alt=""/>
  <br />
- <sub><b>Mayk Brito</b></sub></a> <a href="https://github.com/maykbrito">🚀</a>
+ <sub><b>Mayk Brito</b></sub></a> <a href="https://github.com/maykbrito" target="_blank">🚀</a>
 </h3>
 
 ---
