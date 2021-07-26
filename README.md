@@ -22,9 +22,10 @@
 <h2 align="center" id="design">
   🎨 Design
 </h2>
-<h1 align="center">
-  <img alt="Beautysalon." src="./assets/readme/mockup.png" align="center"/></h1>
-  <h3 align="center"><a href="https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six/duplicate">Link no Figma</a><br></h3><hr>
+<h2 align="center">
+  <img alt="Beautysalon." src="./assets/readme/mockup.png" align="center"/></h2>
+  <h3 align="center"><a href="https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six/duplicate">Link no Figma</a><br>
+  <a href="https://igorvini25.github.io/Beautysalon-NLW6">Site do Projeto</a></h3><hr>
   <h2 align="center">A Paleta de cores</h2>
   <h3 align="">A Paleta de cores do projeto foi feita de uma forma que fique fácil de trocar as cores.</h3><br>
   <h3 align="center">Indo na linha <b>26/27</b> no arquivo style.css você encontrará isso:</h3>
